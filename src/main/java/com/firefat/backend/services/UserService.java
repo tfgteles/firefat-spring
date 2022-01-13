@@ -1,7 +1,7 @@
 package com.firefat.backend.services;
 
-import com.firefat.backend.models.AppUser;
-import com.firefat.backend.models.AppRole;
+import com.firefat.backend.domain.AppUser;
+import com.firefat.backend.domain.AppRole;
 
 import java.util.List;
 

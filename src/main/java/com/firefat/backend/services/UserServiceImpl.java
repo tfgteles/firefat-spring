@@ -1,9 +1,9 @@
 package com.firefat.backend.services;
 
-import com.firefat.backend.models.AppUser;
-import com.firefat.backend.models.AppRole;
-import com.firefat.backend.repositories.RoleRepo;
-import com.firefat.backend.repositories.UserRepo;
+import com.firefat.backend.domain.AppUser;
+import com.firefat.backend.domain.AppRole;
+import com.firefat.backend.repo.RoleRepo;
+import com.firefat.backend.repo.UserRepo;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;

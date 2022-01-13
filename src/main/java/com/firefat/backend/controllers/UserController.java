@@ -1,7 +1,7 @@
 package com.firefat.backend.controllers;
 
-import com.firefat.backend.models.AppUser;
-import com.firefat.backend.models.AppRole;
+import com.firefat.backend.domain.AppUser;
+import com.firefat.backend.domain.AppRole;
 import com.firefat.backend.services.UserService;
 import lombok.Data;
 import lombok.RequiredArgsConstructor;
